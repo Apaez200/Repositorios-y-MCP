@@ -1,0 +1,9 @@
+PERSONAJES PROPIOS PARA MEME DASH
+=================================
+
+Arrastra aqui imagenes PNG o JPG (de preferencia cuadradas, por ejemplo 256x256)
+y apareceran como personajes nuevos en el menu del juego.
+El nombre del personaje es el nombre del archivo.
+
+Recomendacion: usa imagenes que sean tuyas o que tengas permiso de usar.
+Evita fotos de personas reales sin su consentimiento.
